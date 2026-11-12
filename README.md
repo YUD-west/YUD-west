@@ -1,6 +1,3 @@
-<div align="center">
-
-<pre>
 ▒▓▌ ═══════════ WELCOME I'M ═══════════ ▐▓▒░
 
 ██╗   ██╗███████╗███████╗██╗   ██╗███████╗
@@ -16,14 +13,5 @@
 ██║  ██║██╔══╝  ██╔══██╗██║   ██║██║   ██║
 ██████╔╝███████╗██║  ██║╚██████╔╝╚██████╔╝
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
-</pre>
+![Uploading banner.gif…]()
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="banner.gif" alt="Full-Stack Developer & Aspiring AI/ML Engineer" width="100%">
-
-</div>
