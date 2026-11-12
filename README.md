@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**YUD-west/YUD-west** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+▒▓▌ ═══════════ WELCOME I'M ═══════════ ▐▓▒░
 
-Here are some ideas to get you started:
+██╗   ██╗███████╗███████╗██╗   ██╗███████╗
+╚██╗ ██╔╝██╔════╝██╔════╝██║   ██║██╔════╝
+ ╚████╔╝ █████╗  ███████╗██║   ██║█████╗
+  ╚██╔╝  ██╔══╝  ╚════██║██║   ██║██╔══╝
+   ██║   ███████╗███████║╚██████╔╝██║
+   ╚═╝   ╚══════╝╚══════╝ ╚═════╝ ╚═╝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+██████╗ ███████╗██████╗  ██████╗ ██╗   ██╗
+██╔══██╗██╔════╝██╔══██╗██╔════╝ ██║   ██║
+██║  ██║█████╗  ██████╔╝██║  ███╗██║   ██║
+██║  ██║██╔══╝  ██╔══██╗██║   ██║██║   ██║
+██████╔╝███████╗██║  ██║╚██████╔╝╚██████╔╝
+╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
+</pre>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="banner.gif" alt="Full-Stack Developer & Aspiring AI/ML Engineer" width="100%">
+
+</div>
